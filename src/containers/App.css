@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Monoton', cursive;
+    color: #0ccac4;
+}
+
+.scroll {
+    overflow-Y: scroll;
+    height: 800px;
+}
+
+.scroll::-webkit-scrollbar {
+    display: none;
+}
